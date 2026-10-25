@@ -1,0 +1,12 @@
+# Banco de dados local
+
+sistema_gestao.db
+
+# Arquivos Python temporários
+
+**pycache**/
+*.py[cod]
+
+# Configurações locais do PyCharm
+
+.idea/
